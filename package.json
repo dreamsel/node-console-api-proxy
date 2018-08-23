@@ -1,0 +1,22 @@
+{
+  "name": "proxy-wrapper",
+  "version": "1.0.0",
+  "description": "wrap console app to redirect its input-ouput to websocket or REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wrap",
+    "console",
+    "rest"
+  ],
+  "author": "Dmytro Selin",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0"
+  }
+}
